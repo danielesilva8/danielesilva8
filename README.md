@@ -16,23 +16,11 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e soluções que conecta
 
 ## Skills técnicas
 
-                                  | Linguagens       | Ferramentas & BI     | Banco de Dados    | Outras             |
-                                  |------------------|---------------------|------------------|--------------------|
-                                  | Python 🐍        | Power BI 📊          | SQL Server 🗄️    | Git & GitHub 🌐    |
-                                  | SQL 🧮           | Tableau 📈           | MySQL             | Excel Avançado     |
-                                  | JavaScript ⚡️    | Looker Studio 🎯     | PostgreSQL 🐘     | Google Sheets 📄   |
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C99?style=for-the-badge&logo=sqlite&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielesilva8&layout=compact&theme=radical" />
-</div>
+| Linguagens       | Ferramentas & BI     | Banco de Dados    | Outras             |
+|------------------|---------------------|------------------|--------------------|
+| Python 🐍        | Power BI 📊          | SQL Server 🗄️    | Git & GitHub 🌐    |
+| SQL 🧮           | Tableau 📈           | MySQL             | Excel Avançado     |
+| JavaScript ⚡️    | Looker Studio 🎯     | PostgreSQL 🐘     | Google Sheets 📄   |
 
 ---
 
@@ -54,3 +42,7 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e soluções que conecta
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielesilva8&layout=compact&theme=radical" />
+</div>
