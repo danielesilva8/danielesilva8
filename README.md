@@ -30,6 +30,11 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e soluções que conecta
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical" />
+</div>
+
+
 
 ---
 
