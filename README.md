@@ -1,4 +1,4 @@
-# Olá, eu sou a Dani 👋
+# Olá, eu sou a Daniele 👋
 
 Sou **Especialista de Dados** com paixão por transformar números em decisões estratégicas e impactantes.  
 Aqui no GitHub, compartilho meus projetos, aprendizados e soluções que conectam dados ao futuro.
