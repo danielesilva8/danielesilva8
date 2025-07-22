@@ -12,15 +12,18 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e soluções que conecta
 - 🛠 Ferramentas que domino: Python, SQL, Power BI, Power Query, Pandas, Tableau  
 - 🚀 Apaixonada por análises que contam histórias e geram valor real
 
+---
+
 ## Skills técnicas
 
-| Linguagens    | Ferramentas & BI     | Banco de Dados       | Outras           |
-|--------------|---------------------|---------------------|------------------|
-| Python 🐍    | Power BI 📊          | SQL Server 🗄️       | Git & GitHub 🌐  |
-| SQL 🧮       | Tableau 📈           | MySQL                | Excel Avançado   |
-
+| Linguagens       | Ferramentas & BI     | Banco de Dados    | Outras             |
+|------------------|---------------------|------------------|--------------------|
+| Python 🐍        | Power BI 📊          | SQL Server 🗄️    | Git & GitHub 🌐    |
+| SQL 🧮           | Tableau 📈           | MySQL             | Excel Avançado     |
+| JavaScript ⚡️    | Looker Studio 🎯     | PostgreSQL 🐘     | Google Sheets 📄   |
 
 ---
+
 ## Contato
 
 📫 Me encontre no LinkedIn: https://linkedin.com/in/daniele-custodio/
