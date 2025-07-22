@@ -35,6 +35,8 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e soluções que conecta
   <img src="https://github-readme-stats.vercel.app/api?username=danielesilva8&show_icons=true&theme=radical" alt="Dani's GitHub Stats" />
 </div>
 
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C99?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,7 +44,3 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e soluções que conecta
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielesilva8&layout=compact&theme=radical" />
-</div>
