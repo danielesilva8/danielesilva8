@@ -29,5 +29,5 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e soluções que conecta
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical" alt="Dani's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielesilva8&show_icons=true&theme=radical" alt="Dani's GitHub Stats" />
 </div>
